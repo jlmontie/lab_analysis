@@ -1,0 +1,5 @@
+*sample_composition.out
+__pycache__
+.ipynb_checkpoints
+.vscode
+*.dxsm.out.summary

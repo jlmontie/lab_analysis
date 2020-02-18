@@ -1,0 +1,5 @@
+reporting_name	reporting_id	taxids	compound_id	class_type	subclass	nucleic_acid	RNA	DNA	seqids_in_rna_db	seqids_in_dna_db	semantic_group
+Escherichia virus Qbeta	27486	39803	27486_39803	viral	phage	RNA	virus	.	7	0	.
+Enterobacterio phage MS2	26762	12022	26762_12022	viral	phage	RNA	virus	.	22	0	.
+Escherichia virus T4	27508	10665	27508_10665	viral	phage	DNA	virus	.	7	0	.
+Enterobacteria phage T7	26706	10760	26706_10760	viral	phage	DNA	virus	.	10	0	.
