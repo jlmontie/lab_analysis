@@ -3,3 +3,5 @@ __pycache__
 .ipynb_checkpoints
 .vscode
 *.dxsm.out.summary
+*.html
+*Coverage.csv
