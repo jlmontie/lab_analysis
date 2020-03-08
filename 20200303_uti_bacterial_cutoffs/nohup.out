@@ -1,0 +1,1224 @@
+source col_0
+0      0.98665
+1      0.88595
+2      0.97005
+3      0.95120
+4      0.98690
+        ...   
+139    0.06650
+140    0.00000
+141    0.05045
+142    0.00000
+143    0.00000
+Name: dna_coverage, Length: 144, dtype: float64
+threshold 0
+0.6
+above threshold 0:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: dna_coverage, Length: 144, dtype: bool
+source col_1
+0      1.0
+1      1.0
+2      1.0
+3      1.0
+4      1.0
+      ... 
+139    NaN
+140    NaN
+141    NaN
+142    NaN
+143    NaN
+Name: rna_coverage, Length: 144, dtype: float64
+threshold 1
+0.9999
+above threshold 1:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: rna_coverage, Length: 144, dtype: bool
+source col_0
+0      0.911365
+1      0.919012
+2      0.898295
+3      0.916687
+4      0.917075
+         ...   
+139    0.000000
+140    0.000788
+141    0.000000
+142    0.000187
+143    0.000524
+Name: core_coverage, Length: 144, dtype: float64
+threshold 0
+0
+above threshold 0:
+0      True
+1      True
+2      True
+3      True
+4      True
+       ... 
+139    True
+140    True
+141    True
+142    True
+143    True
+Name: core_coverage, Length: 144, dtype: bool
+source col_1
+0      1.0
+1      1.0
+2      1.0
+3      1.0
+4      1.0
+      ... 
+139    NaN
+140    NaN
+141    NaN
+142    NaN
+143    NaN
+Name: rna_coverage, Length: 144, dtype: float64
+threshold 1
+0.9999
+above threshold 1:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: rna_coverage, Length: 144, dtype: bool
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.1:9010/ (Press CTRL+C to quit)
+127.0.0.1 - - [07/Mar/2020 15:52:10] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:10] "[37mGET /_dash-dependencies HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:10] "[37mGET /_dash-layout HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:11] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:11] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:11] "[37mGET /_dash-component-suites/dash_core_components/async-plotlyjs.v1_8_1m1582838719.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:11] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 15:52:13] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:04] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:04] "[37mGET /_dash-dependencies HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:04] "[37mGET /_dash-layout HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:04] "[37mGET /_favicon.ico?v=1.9.1 HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:05] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:05] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:06] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:07] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:40] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:02:40] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:05:10] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:05:11] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+source col_0
+0      0.98665
+1      0.88595
+2      0.97005
+3      0.95120
+4      0.98690
+        ...   
+139    0.06650
+140    0.00000
+141    0.05045
+142    0.00000
+143    0.00000
+Name: dna_coverage, Length: 144, dtype: float64
+threshold 0
+0.6
+above threshold 0:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: dna_coverage, Length: 144, dtype: bool
+source col_1
+0      1.0
+1      1.0
+2      1.0
+3      1.0
+4      1.0
+      ... 
+139    NaN
+140    NaN
+141    NaN
+142    NaN
+143    NaN
+Name: rna_coverage, Length: 144, dtype: float64
+threshold 1
+0.9999
+above threshold 1:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: rna_coverage, Length: 144, dtype: bool
+source col_0
+0      0.911365
+1      0.919012
+2      0.898295
+3      0.916687
+4      0.917075
+         ...   
+139    0.000000
+140    0.000788
+141    0.000000
+142    0.000187
+143    0.000524
+Name: core_coverage, Length: 144, dtype: float64
+threshold 0
+0
+above threshold 0:
+0      True
+1      True
+2      True
+3      True
+4      True
+       ... 
+139    True
+140    True
+141    True
+142    True
+143    True
+Name: core_coverage, Length: 144, dtype: bool
+source col_1
+0      1.0
+1      1.0
+2      1.0
+3      1.0
+4      1.0
+      ... 
+139    NaN
+140    NaN
+141    NaN
+142    NaN
+143    NaN
+Name: rna_coverage, Length: 144, dtype: float64
+threshold 1
+0.9999
+above threshold 1:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: rna_coverage, Length: 144, dtype: bool
+source col_0
+0      0.98665
+1      0.88595
+2      0.97005
+3      0.95120
+4      0.98690
+        ...   
+139    0.06650
+140    0.00000
+141    0.05045
+142    0.00000
+143    0.00000
+Name: dna_coverage, Length: 144, dtype: float64
+threshold 0
+0.6
+above threshold 0:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: dna_coverage, Length: 144, dtype: bool
+source col_1
+0      1.0
+1      1.0
+2      1.0
+3      1.0
+4      1.0
+      ... 
+139    NaN
+140    NaN
+141    NaN
+142    NaN
+143    NaN
+Name: rna_coverage, Length: 144, dtype: float64
+threshold 1
+0.9999
+above threshold 1:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: rna_coverage, Length: 144, dtype: bool
+source col_0
+0      0.911365
+1      0.919012
+2      0.898295
+3      0.916687
+4      0.917075
+         ...   
+139    0.000000
+140    0.000788
+141    0.000000
+142    0.000187
+143    0.000524
+Name: core_coverage, Length: 144, dtype: float64
+threshold 0
+0
+above threshold 0:
+0      True
+1      True
+2      True
+3      True
+4      True
+       ... 
+139    True
+140    True
+141    True
+142    True
+143    True
+Name: core_coverage, Length: 144, dtype: bool
+source col_1
+0      1.0
+1      1.0
+2      1.0
+3      1.0
+4      1.0
+      ... 
+139    NaN
+140    NaN
+141    NaN
+142    NaN
+143    NaN
+Name: rna_coverage, Length: 144, dtype: float64
+threshold 1
+0.9999
+above threshold 1:
+0       True
+1       True
+2       True
+3       True
+4       True
+       ...  
+139    False
+140    False
+141    False
+142    False
+143    False
+Name: rna_coverage, Length: 144, dtype: bool
+source col_0
+0     0.15355
+1     0.08270
+2     0.00000
+3     0.00000
+4     0.30830
+       ...   
+89    0.00000
+90    0.00000
+91    0.00000
+92    0.00000
+93    0.00000
+Name: dna_coverage, Length: 94, dtype: float64
+threshold 0
+0.82
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: dna_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.105234
+1     0.113719
+2     0.059325
+3     0.072618
+4     0.365722
+        ...   
+89    0.054917
+90    0.034427
+91    0.044184
+92    0.067879
+93    0.130253
+Name: core_coverage, Length: 94, dtype: float64
+threshold 0
+0
+above threshold 0:
+0     True
+1     True
+2     True
+3     True
+4     True
+      ... 
+89    True
+90    True
+91    True
+92    True
+93    True
+Name: core_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.15355
+1     0.08270
+2     0.00000
+3     0.00000
+4     0.30830
+       ...   
+89    0.00000
+90    0.00000
+91    0.00000
+92    0.00000
+93    0.00000
+Name: dna_coverage, Length: 94, dtype: float64
+threshold 0
+0.82
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: dna_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.105234
+1     0.113719
+2     0.059325
+3     0.072618
+4     0.365722
+        ...   
+89    0.054917
+90    0.034427
+91    0.044184
+92    0.067879
+93    0.130253
+Name: core_coverage, Length: 94, dtype: float64
+threshold 0
+0
+above threshold 0:
+0     True
+1     True
+2     True
+3     True
+4     True
+      ... 
+89    True
+90    True
+91    True
+92    True
+93    True
+Name: core_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.15355
+1     0.08270
+2     0.00000
+3     0.00000
+4     0.30830
+       ...   
+89    0.00000
+90    0.00000
+91    0.00000
+92    0.00000
+93    0.00000
+Name: dna_coverage, Length: 94, dtype: float64
+threshold 0
+0.82
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: dna_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.105234
+1     0.113719
+2     0.059325
+3     0.072618
+4     0.365722
+        ...   
+89    0.054917
+90    0.034427
+91    0.044184
+92    0.067879
+93    0.130253
+Name: core_coverage, Length: 94, dtype: float64
+threshold 0
+0
+above threshold 0:
+0     True
+1     True
+2     True
+3     True
+4     True
+      ... 
+89    True
+90    True
+91    True
+92    True
+93    True
+Name: core_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64127.0.0.1 - - [07/Mar/2020 16:05:29] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:05:29] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:05:57] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:05:58] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:06:30] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:06:30] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:06:41] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:06:42] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.15355
+1     0.08270
+2     0.00000
+3     0.00000
+4     0.30830
+       ...   
+89    0.00000
+90    0.00000
+91    0.00000
+92    0.00000
+93    0.00000
+Name: dna_coverage, Length: 94, dtype: float64
+threshold 0
+0.82
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: dna_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.105234
+1     0.113719
+2     0.059325
+3     0.072618
+4     0.365722
+        ...   
+89    0.054917
+90    0.034427
+91    0.044184
+92    0.067879
+93    0.130253
+Name: core_coverage, Length: 94, dtype: float64
+threshold 0
+0
+above threshold 0:
+0     True
+1     True
+2     True
+3     True
+4     True
+      ... 
+89    True
+90    True
+91    True
+92    True
+93    True
+Name: core_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+0     0.11325
+1     0.06200
+2         NaN
+3         NaN
+4     0.25215
+       ...   
+69    0.05760
+70    0.06680
+71    0.06605
+72    0.06060
+73    0.07645
+Name: dna_coverage, Length: 74, dtype: float64
+threshold 0
+0.2
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4      True
+      ...  
+69    False
+70    False
+71    False
+72    False
+73    False
+Name: dna_coverage, Length: 74, dtype: bool
+source col_1
+0     0.861905
+1     0.440032
+2     0.192154
+3     0.171565
+4     0.917460
+        ...   
+69         NaN
+70         NaN
+71         NaN
+72         NaN
+73         NaN
+Name: rna_coverage, Length: 74, dtype: float64
+threshold 1
+0.8
+above threshold 1:
+0      True
+1     False
+2     False
+3     False
+4      True
+      ...  
+69    False
+70    False
+71    False
+72    False
+73    False
+Name: rna_coverage, Length: 74, dtype: bool
+source col_0
+0     0.0
+1     0.0
+2     NaN
+3     NaN
+4     0.0
+     ... 
+69    0.0
+70    0.0
+71    0.0
+72    0.0
+73    0.0
+Name: core_coverage, Length: 74, dtype: float64
+threshold 0
+0
+above threshold 0:
+0      True
+1      True
+2     False
+3     False
+4      True
+      ...  
+69     True
+70     True
+71     True
+72     True
+73     True
+Name: core_coverage, Length: 74, dtype: bool
+source col_1
+0     0.861905
+1     0.440032
+2     0.192154
+3     0.171565
+4     0.917460
+        ...   
+69         NaN
+70         NaN
+71         NaN
+72         NaN
+73         NaN
+Name: rna_coverage, Length: 74, dtype: float64
+threshold 1
+0.8
+above threshold 1:
+0      True
+1     False
+2     False
+3     False
+4      True
+      ...  
+69    False
+70    False
+71    False
+72    False
+73    False
+Name: rna_coverage, Length: 74, dtype: bool
+source col_0
+0     0.11325
+1     0.06200
+2         NaN
+3         NaN
+4     0.25215
+       ...   
+69    0.05760
+70    0.06680
+71    0.06605
+72    0.06060
+73    0.07645
+Name: dna_coverage, Length: 74, dtype: float64
+threshold 0
+0.2
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4      True
+      ...  
+69    False
+70    False
+71    False
+72    False
+73    False
+Name: dna_coverage, Length: 74, dtype: bool
+source col_1
+0     0.861905
+1     0.440032
+2     0.192154
+3     0.171565
+4     0.917460
+        ...   
+69         NaN
+70         NaN
+71         NaN
+72         NaN
+73         NaN
+Name: rna_coverage, Length: 74, dtype: float64
+threshold 1
+0.8
+above threshold 1:
+0      True
+1     False
+2     False
+3     False
+4      True
+      ...  
+69    False
+70    False
+71    False
+72    False
+73    False
+Name: rna_coverage, Length: 74, dtype: bool
+source col_0
+74     0.93215
+75     0.05055
+76     0.00000
+77         NaN
+78         NaN
+        ...   
+549        NaN
+550        NaN
+551        NaN
+552        NaN
+553        NaN
+Name: dna_coverage, Length: 480, dtype: float64
+threshold 0
+0.2
+above threshold 0:
+74      True
+75     False
+76     False
+77     False
+78     False
+       ...  
+549    False
+550    False
+551    False
+552    False
+553    False
+Name: dna_coverage, Length: 480, dtype: bool
+source col_1
+74     1.000000
+75     0.582540
+76     0.126501
+77     0.274603
+78     0.258730
+         ...   
+549    0.117694
+550    0.172138
+551    0.215079
+552    0.115292
+553    0.115292
+Name: rna_coverage, Length: 480, dtype: float64
+threshold 1
+0.8
+above threshold 1:
+74      True
+75     False
+76     False
+77     False
+78     False
+       ...  
+549    False
+550    False
+551    False
+552    False
+553    False
+Name: rna_coverage, Length: 480, dtype: bool
+source col_0
+0     0.0
+1     0.0
+2     NaN
+3     NaN
+4     0.0
+     ... 
+69    0.0
+70    0.0
+71    0.0
+72    0.0
+73    0.0
+Name: core_coverage, Length: 74, dtype: float64
+threshold 0
+0
+above threshold 0:
+0      True
+1      True
+2     False
+3     False
+4      True
+      ...  
+69     True
+70     True
+71     True
+72     True
+73     True
+Name: core_coverage, Length: 74, dtype: bool
+source col_1
+0     0.861905
+1     0.440032
+2     0.192154
+3     0.171565
+4     0.917460
+        ...   
+69         NaN
+70         NaN
+71         NaN
+72         NaN
+73         NaN
+Name: rna_coverage, Length: 74, dtype: float64
+threshold 1
+0.8
+above threshold 1:
+0      True
+1     False
+2     False
+3     False
+4      True
+      ...  
+69    False
+70    False
+71    False
+72    False
+73    False
+Name: rna_coverage, Length: 74, dtype: bool
+source col_0
+74     0.998882
+75     0.000000
+76     0.002972
+77          NaN
+78          NaN
+         ...   
+549         NaN
+550         NaN
+551         NaN
+552         NaN
+553         NaN
+Name: core_coverage, Length: 480, dtype: float64
+threshold 0
+0
+above threshold 0:
+74      True
+75      True
+76      True
+77     False
+78     False
+       ...  
+549    False
+550    False
+551    False
+552    False
+553    False
+Name: core_coverage, Length: 480, dtype: bool
+source col_1
+74     1.000000
+75     0.582540
+76     0.126501
+77     0.274603
+78     0.258730
+         ...   
+549    0.117694
+550    0.172138
+551    0.215079
+552    0.115292
+553    0.115292
+Name: rna_coverage, Length: 480, dtype: float64
+threshold 1
+0.8
+above threshold 1:
+74      True
+75     False
+76     False
+77     False
+78     False
+       ...  
+549    False
+550    False
+551    False
+552    False
+553    False
+Name: rna_coverage, Length: 480, dtype: bool
+source col_0
+0     0.15355
+1     0.08270
+2     0.00000
+3     0.00000
+4     0.30830
+       ...   
+89    0.00000
+90    0.00000
+91    0.00000
+92    0.00000
+93    0.00000
+Name: dna_coverage, Length: 94, dtype: float64
+threshold 0
+0.82
+above threshold 0:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: dna_coverage, Length: 94, dtype: bool
+source col_1
+0     0.861905
+1     0.441083
+2     0.185714
+3     0.172386
+4     0.920635
+        ...   
+89         NaN
+90         NaN
+91         NaN
+92         NaN
+93         NaN
+Name: rna_coverage, Length: 94, dtype: float64
+threshold 1
+0.96
+above threshold 1:
+0     False
+1     False
+2     False
+3     False
+4     False
+      ...  
+89    False
+90    False
+91    False
+92    False
+93    False
+Name: rna_coverage, Length: 94, dtype: bool
+source col_0
+94     0.0000
+95     0.0629
+96     0.0000
+97     0.0000
+98     0.0000
+        ...  
+645    0.0000
+646    0.0000
+647    0.0000
+648       NaN
+649       NaN
+Name: dna_coverage, Length: 556, dtype: float64127.0.0.1 - - [07/Mar/2020 16:06:51] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 16:06:53] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -

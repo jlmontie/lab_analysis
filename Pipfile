@@ -18,6 +18,8 @@ pandoc = "*"
 xlrd = "*"
 statsmodels = "*"
 idbd-bio-utils = {editable = true,path = "/home/jmontgomery/idbd-bio-utils"}
+tqdm = "*"
+dash-bootstrap-components = "*"
 
 [requires]
 python_version = "3.6"

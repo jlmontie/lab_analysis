@@ -1,0 +1,319 @@
+sample_id,accession,batch_id,review,organism
+IDbyDNA-5745,IDBD-D101489,200204B03,Match,Escherichia coli
+IDbyDNA-5749,IDBD-D101493,200204B03,Match,Klebsiella pneumoniae
+IDbyDNA-5750,IDBD-D101494,200204B03,Match,Proteus mirabilis
+IDbyDNA-5751,IDBD-D101495,200204B03,Match,Enterococcus faecalis
+IDbyDNA-5753,IDBD-D101497,200204B03,Match,Pseudomonas aeruginosa
+IDbyDNA-5756,IDBD-D101500,200204B03,Match,Escherichia coli
+IDbyDNA-5757,IDBD-D101501,200204B03,Match,Escherichia coli
+IDbyDNA-5758,IDBD-D101502,200204B03,Match,Escherichia coli
+IDbyDNA-5760,IDBD-D101504,200204B03,Match,Escherichia coli
+IDbyDNA-5761,IDBD-D101505,200204B03,Mismatch,Escherichia coli
+IDbyDNA-5762,IDBD-D101506,200204B03,Mismatch,Escherichia coli
+IDbyDNA-5763,IDBD-D101507,200204B03,Match,Enterococcus faecium
+IDbyDNA-5765,IDBD-D101509,200204B04,Match,Escherichia coli
+IDbyDNA-5766,IDBD-D101510,200204B04,Match,Klebsiella pneumoniae
+IDbyDNA-5768,IDBD-D101568,200204B04,Match,Escherichia coli
+IDbyDNA-5769,IDBD-D101588,200204B04,Match,Proteus mirabilis
+IDbyDNA-5770,IDBD-D101589,200204B04,Match,Escherichia coli
+IDbyDNA-5771,IDBD-D101590,200204B04,Match,Klebsiella pneumoniae
+IDbyDNA-5772,IDBD-D101591,200204B04,Match,Escherichia coli
+IDbyDNA-5773,IDBD-D101592,200204B04,Match,Klebsiella pneumoniae
+IDbyDNA-5774,IDBD-D101593,200204B04,Match,Enterococcus faecalis
+IDbyDNA-5775,IDBD-D101596,200204B04,Match,Proteus mirabilis
+IDbyDNA-5776,IDBD-D101597,200204B04,Match,Proteus mirabilis
+IDbyDNA-5777,IDBD-D101598,200204B04,Match,Staphylococcus aureus
+IDbyDNA-5778,IDBD-D101599,200204B04,Match,Klebsiella pneumoniae
+IDbyDNA-5780,IDBD-D101602,200204B04,Match,Enterococcus faecalis
+IDbyDNA-5781,IDBD-D101603,200204B04,Mismatch,Klebsiella pneumoniae
+IDbyDNA-5782,IDBD-D101604,200204B04,Mismatch,Staphylococcus saprophyticus
+IDbyDNA-5783,IDBD-D101605,200204B04,Mismatch,Escherichia coli
+IDbyDNA-5784,IDBD-D101606,200204B04,Mismatch,Escherichia coli
+IDbyDNA-5785,IDBD-D101641,200206B02,Match,Escherichia coli
+IDbyDNA-5786,IDBD-D101642,200206B02,Match,Escherichia coli
+IDbyDNA-5787,IDBD-D101643,200206B02,Match,Klebsiella pneumoniae
+IDbyDNA-5788,IDBD-D101644,200206B02,Match,Escherichia coli
+IDbyDNA-5789,IDBD-D101645,200206B02,Match,Escherichia coli
+IDbyDNA-5790,IDBD-D101646,200206B02,Match,Escherichia coli
+IDbyDNA-5791,IDBD-D101647,200206B02,Match,Escherichia coli
+IDbyDNA-5792,IDBD-D101648,200206B02,Match,Escherichia coli
+IDbyDNA-5793,IDBD-D101649,200206B02,Match,Escherichia coli
+IDbyDNA-5794,IDBD-D101650,200206B02,Match,Escherichia coli
+IDbyDNA-5795,IDBD-D101651,200206B02,Mismatch,Escherichia coli
+IDbyDNA-5796,IDBD-D101652,200206B02,Match,Enterococcus faecalis
+IDbyDNA-5797,IDBD-D101653,200206B02,Match,Escherichia coli
+IDbyDNA-5798,IDBD-D101654,200206B02,Mismatch,Pseudomonas aeruginosa
+IDbyDNA-5799,IDBD-D101655,200206B02,Match,Escherichia coli
+IDbyDNA-5800,IDBD-D101656,200206B02,Match,Escherichia coli
+IDbyDNA-5801,IDBD-D101657,200206B02,Match,Enterococcus faecalis
+IDbyDNA-5802,IDBD-D101658,200206B02,Match,Escherichia coli
+IDbyDNA-5803,IDBD-D101659,200206B03,Match,Escherichia coli
+IDbyDNA-5804,IDBD-D101660,200206B03,Match,Klebsiella pneumoniae
+IDbyDNA-5805,IDBD-D101661,200206B03,Match,Escherichia coli
+IDbyDNA-5806,IDBD-D101662,200206B03,Match,Escherichia coli
+IDbyDNA-5807,IDBD-D101663,200206B03,Mismatch,Escherichia coli
+IDbyDNA-5808,IDBD-D101664,200206B03,Match,Escherichia coli
+IDbyDNA-5809,IDBD-D101665,200206B03,Match,Enterococcus faecalis
+IDbyDNA-5811,IDBD-D101667,200206B03,Mismatch,Escherichia coli
+IDbyDNA-5812,IDBD-D101668,200206B03,Match,Escherichia coli
+IDbyDNA-5813,IDBD-D101669,200206B03,Match,Pseudomonas aeruginosa
+IDbyDNA-5817,IDBD-D101673,200206B03,Match,Escherichia coli
+IDbyDNA-5818,IDBD-D101674,200206B03,Match,Pseudomonas aeruginosa
+IDbyDNA-5821,IDBD-D101713,200211B03,Match,Enterococcus faecalis
+IDbyDNA-5822,IDBD-D101714,200211B03,Match,Escherichia coli
+IDbyDNA-5823,IDBD-D101715,200211B03,Match,Escherichia coli
+IDbyDNA-5824,IDBD-D101716,200211B03,Match,Klebsiella pneumoniae
+IDbyDNA-5825,IDBD-D101717,200211B03,Match,Escherichia coli
+IDbyDNA-5826,IDBD-D101718,200211B03,Match,Klebsiella pneumoniae
+IDbyDNA-5827,IDBD-D101719,200211B03,Match,Escherichia coli
+IDbyDNA-5829,IDBD-D101721,200211B03,Match,Escherichia coli
+IDbyDNA-5831,IDBD-D101723,200211B03,Match,Escherichia coli
+IDbyDNA-5832,IDBD-D101724,200211B03,Match,Escherichia coli
+IDbyDNA-5833,IDBD-D101725,200211B03,Match,Escherichia coli
+IDbyDNA-5836,IDBD-D101728,200211B04,Match,Escherichia coli
+IDbyDNA-5839,IDBD-D101731,200211B04,Match,Pseudomonas aeruginosa
+IDbyDNA-5842,IDBD-D101734,200211B04,Match,Escherichia coli
+IDbyDNA-5843,IDBD-D101735,200211B04,Match,Escherichia coli
+IDbyDNA-5844,IDBD-D101736,200211B04,Match,Enterococcus faecalis
+IDbyDNA-5845,IDBD-D101737,200211B04,Match,Escherichia coli
+IDbyDNA-5846,IDBD-D101738,200211B04,Match,Escherichia coli
+IDbyDNA-5847,IDBD-D101739,200211B04,Match,Escherichia coli
+IDbyDNA-5795A,IDBD-D101741,200211B04,Match,Escherichia coli
+IDbyDNA-5795B,IDBD-D101742,200211B04,Match,Escherichia coli
+IDbyDNA-5849,IDBD-D101775,200213B02,Match,Enterococcus faecalis
+IDbyDNA-5850,IDBD-D101776,200213B02,Match,Escherichia coli
+IDbyDNA-5851,IDBD-D101777,200213B02,Match,Escherichia coli
+IDbyDNA-5852,IDBD-D101778,200213B02,Match,Escherichia coli
+IDbyDNA-5853,IDBD-D101779,200213B02,Match,Klebsiella pneumoniae
+IDbyDNA-5854,IDBD-D101780,200213B02,Match,Escherichia coli
+IDbyDNA-5855,IDBD-D101781,200213B02,Match,Pseudomonas aeruginosa
+IDbyDNA-5856,IDBD-D101782,200213B02,Match,Escherichia coli
+IDbyDNA-5857,IDBD-D101783,200213B02,Match,Escherichia coli
+IDbyDNA-5858,IDBD-D101784,200213B02,Match,Escherichia coli
+IDbyDNA-5859,IDBD-D101785,200213B02,Match,Klebsiella pneumoniae
+IDbyDNA-5860,IDBD-D101786,200213B02,Match,Escherichia coli
+IDbyDNA-5863,IDBD-D101789,200213B02,Match,Escherichia coli
+IDbyDNA-5864,IDBD-D101790,200213B02,Match,Escherichia coli
+IDbyDNA-5867,IDBD-D101793,200213B03,Match,Klebsiella pneumoniae
+IDbyDNA-5868,IDBD-D101794,200213B03,Match,Escherichia coli
+IDbyDNA-5869,IDBD-D101795,200213B03,Match,Pseudomonas aeruginosa
+IDbyDNA-5870,IDBD-D101796,200213B03,Match,Escherichia coli
+IDbyDNA-5871,IDBD-D101797,200213B03,Match,Escherichia coli
+IDbyDNA-5879,IDBD-D101805,200213B03,Match,Escherichia coli
+IDbyDNA-5883,IDBD-D101829,200214B02,Match,Escherichia coli
+IDbyDNA-5884,IDBD-D101830,200214B02,Match,Escherichia coli
+IDbyDNA-5885,IDBD-D101831,200214B02,Match,Escherichia coli
+IDbyDNA-5886,IDBD-D101832,200214B02,Match,Klebsiella pneumoniae
+IDbyDNA-5887,IDBD-D101833,200214B02,Match,Pseudomonas aeruginosa
+IDbyDNA-5888,IDBD-D101834,200214B02,Match,Enterococcus faecalis
+IDbyDNA-5889,IDBD-D101835,200214B02,Mismatch,Escherichia coli
+IDbyDNA-5890,IDBD-D101836,200214B02,Mismatch,Klebsiella pneumoniae
+IDbyDNA-5891,IDBD-D101837,200214B02,Match,Escherichia coli
+IDbyDNA-5892,IDBD-D101838,200214B02,Match,Klebsiella pneumoniae
+IDbyDNA-5893,IDBD-D101839,200214B02,Match,Escherichia coli
+IDbyDNA-5894,IDBD-D101840,200214B02,Match,Enterococcus faecalis
+IDbyDNA-5895,IDBD-D101841,200214B02,Match,Klebsiella pneumoniae
+IDbyDNA-5896,IDBD-D101842,200214B02,Match,Pseudomonas aeruginosa
+IDbyDNA-5897,IDBD-D101843,200214B02,Match,Klebsiella pneumoniae
+IDbyDNA-5899,IDBD-D101845,200214B02,Match,Escherichia coli
+IDbyDNA-5900,IDBD-D101846,200214B02,Mismatch,Escherichia coli
+IDbyDNA-5901,IDBD-D101865,200217B02,Match,Escherichia coli
+IDbyDNA-5902,IDBD-D101866,200217B02,Match,Klebsiella pneumoniae
+IDbyDNA-5903,IDBD-D101867,200217B02,Match,Klebsiella pneumoniae
+IDbyDNA-5904,IDBD-D101868,200217B02,Match,Escherichia coli
+IDbyDNA-5905,IDBD-D101869,200217B02,Match,Klebsiella pneumoniae
+IDbyDNA-5906,IDBD-D101870,200217B02,Match,Escherichia coli
+IDbyDNA-5907,IDBD-D101871,200217B02,Match,Enterococcus faecalis
+IDbyDNA-5908,IDBD-D101872,200217B02,Match,Pseudomonas aeruginosa
+IDbyDNA-5909,IDBD-D101873,200217B02,Match,Klebsiella pneumoniae
+IDbyDNA-5910,IDBD-D101874,200217B02,Match,Staphylococcus aureus
+IDbyDNA-5911,IDBD-D101875,200217B02,Match,Escherichia coli
+IDbyDNA-5912,IDBD-D101876,200217B02,Mismatch,Escherichia coli
+IDbyDNA-5913,IDBD-D101877,200217B02,Mismatch,Escherichia coli
+IDbyDNA-5914,IDBD-D101878,200217B02,Match,Enterococcus faecium
+IDbyDNA-5915,IDBD-D101879,200217B02,Mismatch,Escherichia coli
+IDbyDNA-5916,IDBD-D101880,200217B02,Match,Escherichia coli
+IDbyDNA-5920,IDBD-D101884,200217B03,Match,Klebsiella pneumoniae
+IDbyDNA-5921,IDBD-D101885,200217B03,Match,Enterococcus faecalis
+IDbyDNA-5926,IDBD-D101890,200217B03,Match,Klebsiella pneumoniae
+IDbyDNA-5927,IDBD-D101891,200217B03,Match,Escherichia coli
+IDbyDNA-5928,IDBD-D101892,200217B03,Match,Klebsiella pneumoniae
+IDbyDNA-5932,IDBD-D101896,200217B03,Match,Klebsiella pneumoniae
+IDbyDNA-5933,IDBD-D101897,200217B03,Match,Klebsiella pneumoniae
+IDbyDNA-5934,IDBD-D101898,200217B03,Match,Proteus mirabilis
+IDbyDNA-5936,IDBD-D101900,200217B03,Match,Escherichia coli
+IDbyDNA-5937,IDBD-D101919,200219B02,Match,Escherichia coli
+IDbyDNA-5938,IDBD-D101920,200219B02,Mismatch,Escherichia coli
+IDbyDNA-5939,IDBD-D101921,200219B02,Mismatch,Escherichia coli
+IDbyDNA-5942,IDBD-D101922,200219B02,Match,Enterococcus faecalis
+IDbyDNA-5943,IDBD-D101923,200219B02,Match,Escherichia coli
+IDbyDNA-5944,IDBD-D101924,200219B02,Mismatch,Enteric Gram Negative Rods
+IDbyDNA-5945,IDBD-D101925,200219B02,Match,Escherichia coli
+IDbyDNA-5947,IDBD-D101926,200219B02,Mismatch,Escherichia coli
+IDbyDNA-5948,IDBD-D101927,200219B02,Match,Escherichia coli
+IDbyDNA-5949,IDBD-D101928,200219B02,Mismatch,Escherichia coli
+IDbyDNA-5950,IDBD-D101929,200219B02,Match,Escherichia coli
+IDbyDNA-5951,IDBD-D101930,200219B02,Match,Escherichia coli
+IDbyDNA-5953,IDBD-D101933,200219B02,Mismatch,Escherichia coli
+IDbyDNA-5911A,IDBD-D101941,200221B02,Match,Escherichia coli
+IDbyDNA-5894A,IDBD-D101942,200221B02,Match,Enterococcus faecalis
+IDbyDNA-5900A,IDBD-D101943,200221B02,Match,Escherichia coli
+IDbyDNA-5939A,IDBD-D101948,200221B02,Mismatch,Escherichia coli
+IDbyDNA-5943A,IDBD-D101949,200221B02,Match,Escherichia coli
+IDbyDNA-5947A,IDBD-D101950,200221B02,Match,Escherichia coli
+IDbyDNA-5949A,IDBD-D101951,200221B02,Match,Escherichia coli
+IDbyDNA-5936B,IDBD-D101952,200221B02,Match,Escherichia coli
+IDbyDNA-5933B,IDBD-D101953,200221B02,Match,Klebsiella pneumoniae
+IDbyDNA-5912B,IDBD-D101954,200221B02,Match,Escherichia coli
+IDbyDNA-5894B,IDBD-D101955,200221B02,Match,Enterococcus faecalis
+IDbyDNA-5890B,IDBD-D101956,200221B02,Match,Klebsiella pneumoniae
+IDbyDNA-5937B,IDBD-D101962,200221B03,Match,Escherichia coli
+IDbyDNA-5938B,IDBD-D101963,200221B03,Match,Escherichia coli
+IDbyDNA-5942B,IDBD-D101964,200221B03,Match,Enterococcus faecalis
+IDbyDNA-5943B,IDBD-D101965,200221B03,Match,Escherichia coli
+IDbyDNA-5944B,IDBD-D101966,200221B03,Mismatch,Enteric Gram Negative Rods
+IDbyDNA-5945B,IDBD-D101967,200221B03,Match,Escherichia coli
+IDbyDNA-5947B,IDBD-D101968,200221B03,Match,Escherichia coli
+IDbyDNA-5948B,IDBD-D101969,200221B03,Match,Escherichia coli
+IDbyDNA-5949B,IDBD-D101970,200221B03,Match,Escherichia coli
+IDbyDNA-5950B,IDBD-D101971,200221B03,Match,Escherichia coli
+IDbyDNA-5951B,IDBD-D101972,200221B03,Match,Escherichia coli
+IDbyDNA-5953B,IDBD-D101974,200221B03,Match,Escherichia coli
+IDbyDNA-5747,IDBD-D101491,200204B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5748,IDBD-D101492,200204B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5749,IDBD-D101493,200204B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5750,IDBD-D101494,200204B03,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5751,IDBD-D101495,200204B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5752,IDBD-D101496,200204B03,Additional Pos.,Corynebacterium glucuronolyticum
+IDbyDNA-5754,IDBD-D101498,200204B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5757,IDBD-D101501,200204B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5758,IDBD-D101502,200204B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5767,IDBD-D101511,200204B04,Additional Pos.,Ureaplasma parvum
+IDbyDNA-5768,IDBD-D101568,200204B04,Additional Pos.,Proteus mirabilis
+IDbyDNA-5769,IDBD-D101588,200204B04,Additional Pos.,Proteus vulgaris
+IDbyDNA-5770,IDBD-D101589,200204B04,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5775,IDBD-D101596,200204B04,Additional Pos.,Proteus vulgaris
+IDbyDNA-5776,IDBD-D101597,200204B04,Additional Pos.,Proteus vulgaris
+IDbyDNA-5781,IDBD-D101603,200204B04,Additional Pos.,Enterococcus faecium
+IDbyDNA-5787,IDBD-D101643,200206B02,Additional Pos.,Aerococcus urinae
+IDbyDNA-5792,IDBD-D101648,200206B02,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5793,IDBD-D101649,200206B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5794,IDBD-D101650,200206B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5796,IDBD-D101652,200206B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5804,IDBD-D101660,200206B03,Additional Pos.,Mycoplasma hominis
+IDbyDNA-5815,IDBD-D101671,200206B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5819,IDBD-D101675,200206B03,Additional Pos.,Aerococcus urinae
+IDbyDNA-5820,IDBD-D101676,200206B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5821,IDBD-D101713,200211B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5823,IDBD-D101715,200211B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5828,IDBD-D101720,200211B03,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5835,IDBD-D101727,200211B03,Additional Pos.,Candida albicans
+IDbyDNA-5837,IDBD-D101729,200211B04,Additional Pos.,Escherichia coli
+IDbyDNA-5838,IDBD-D101730,200211B04,Additional Pos.,Escherichia coli
+IDbyDNA-5843,IDBD-D101735,200211B04,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5848,IDBD-D101740,200211B04,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5849,IDBD-D101775,200213B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5850,IDBD-D101776,200213B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5854,IDBD-D101780,200213B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5856,IDBD-D101782,200213B02,Additional Pos.,Chlamydia trachomatis
+IDbyDNA-5857,IDBD-D101783,200213B02,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5858,IDBD-D101784,200213B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5863,IDBD-D101789,200213B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5864,IDBD-D101790,200213B02,Additional Pos.,Corynebacterium jeikeium
+IDbyDNA-5884,IDBD-D101830,200214B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5885,IDBD-D101831,200214B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5887,IDBD-D101833,200214B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5888,IDBD-D101834,200214B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5891,IDBD-D101837,200214B02,Additional Pos.,Streptococcus agalactiae
+IDbyDNA-5893,IDBD-D101839,200214B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5894,IDBD-D101840,200214B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5897,IDBD-D101843,200214B02,Additional Pos.,Pseudomonas aeruginosa
+IDbyDNA-5899,IDBD-D101845,200214B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5906,IDBD-D101870,200217B02,Additional Pos.,Klebsiella pneumoniae
+IDbyDNA-5907,IDBD-D101871,200217B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5908,IDBD-D101872,200217B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5909,IDBD-D101873,200217B02,Additional Pos.,Escherichia coli
+IDbyDNA-5916,IDBD-D101880,200217B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5921,IDBD-D101885,200217B03,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5928,IDBD-D101892,200217B03,Additional Pos.,Serratia marcescens
+IDbyDNA-5929,IDBD-D101893,200217B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5932,IDBD-D101896,200217B03,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5934,IDBD-D101898,200217B03,Additional Pos.,Proteus vulgaris
+IDbyDNA-5937,IDBD-D101919,200219B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5942,IDBD-D101922,200219B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5943,IDBD-D101923,200219B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5944,IDBD-D101924,200219B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5945,IDBD-D101925,200219B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5948,IDBD-D101927,200219B02,Additional Pos.,Aerococcus urinae
+IDbyDNA-5911A,IDBD-D101941,200221B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5894A,IDBD-D101942,200221B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5900A,IDBD-D101943,200221B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5943A,IDBD-D101949,200221B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5894B,IDBD-D101955,200221B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5890B,IDBD-D101956,200221B02,Additional Pos.,Enterobacter cloacae complex
+IDbyDNA-5938B,IDBD-D101963,200221B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5942B,IDBD-D101964,200221B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5943B,IDBD-D101965,200221B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5944B,IDBD-D101966,200221B03,Additional Pos.,Aerococcus urinae
+IDbyDNA-5945B,IDBD-D101967,200221B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5947B,IDBD-D101968,200221B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5949B,IDBD-D101970,200221B03,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5748,IDBD-D101492,200204B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5750,IDBD-D101494,200204B03,Additional Pos.,Proteus vulgaris
+IDbyDNA-5752,IDBD-D101496,200204B03,Additional Pos.,Streptococcus agalactiae
+IDbyDNA-5754,IDBD-D101498,200204B03,Additional Pos.,Corynebacterium jeikeium
+IDbyDNA-5768,IDBD-D101568,200204B04,Additional Pos.,Proteus vulgaris
+IDbyDNA-5781,IDBD-D101603,200204B04,Additional Pos.,Enterococcus faecalis
+IDbyDNA-5787,IDBD-D101643,200206B02,Additional Pos.,Aerococcus sanguinicola
+IDbyDNA-5792,IDBD-D101648,200206B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5794,IDBD-D101650,200206B02,Additional Pos.,Haemophilus influenzae
+IDbyDNA-5804,IDBD-D101660,200206B03,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5819,IDBD-D101675,200206B03,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5835,IDBD-D101727,200211B03,Additional Pos.,Ureaplasma parvum
+IDbyDNA-5838,IDBD-D101730,200211B04,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5850,IDBD-D101776,200213B02,Additional Pos.,Enterococcus faecalis
+IDbyDNA-5854,IDBD-D101780,200213B02,Additional Pos.,Staphylococcus hominis
+IDbyDNA-5857,IDBD-D101783,200213B02,Additional Pos.,Aerococcus urinae
+IDbyDNA-5863,IDBD-D101789,200213B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5864,IDBD-D101790,200213B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5884,IDBD-D101830,200214B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5891,IDBD-D101837,200214B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5893,IDBD-D101839,200214B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5899,IDBD-D101845,200214B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5906,IDBD-D101870,200217B02,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5908,IDBD-D101872,200217B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5909,IDBD-D101873,200217B02,Additional Pos.,Serratia marcescens
+IDbyDNA-5913,IDBD-D101877,200217B02,Additional Pos.,Enterococcus faecium
+IDbyDNA-5916,IDBD-D101880,200217B02,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5921,IDBD-D101885,200217B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5922,IDBD-D101886,200217B03,Additional Pos.,Klebsiella pneumoniae
+IDbyDNA-5929,IDBD-D101893,200217B03,Additional Pos.,Ureaplasma parvum
+IDbyDNA-5911A,IDBD-D101941,200221B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5900A,IDBD-D101943,200221B02,Additional Pos.,Enterococcus faecalis
+IDbyDNA-5890B,IDBD-D101956,200221B02,Additional Pos.,Klebsiella aerogenes (Enterobacter aerogenes)
+IDbyDNA-5949B,IDBD-D101970,200221B03,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5787,IDBD-D101643,200206B02,Additional Pos.,Corynebacterium riegelii
+IDbyDNA-5794,IDBD-D101650,200206B02,Additional Pos.,Haemophilus parainfluenzae
+IDbyDNA-5804,IDBD-D101660,200206B03,Additional Pos.,Enterococcus faecium
+IDbyDNA-5864,IDBD-D101790,200213B02,Additional Pos.,Corynebacterium glucuronolyticum
+IDbyDNA-5884,IDBD-D101830,200214B02,Additional Pos.,Enterococcus faecalis
+IDbyDNA-5891,IDBD-D101837,200214B02,Additional Pos.,Pseudomonas aeruginosa
+IDbyDNA-5893,IDBD-D101839,200214B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5899,IDBD-D101845,200214B02,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5906,IDBD-D101870,200217B02,Additional Pos.,Streptococcus anginosus
+IDbyDNA-5908,IDBD-D101872,200217B02,Additional Pos.,Enterococcus faecalis
+IDbyDNA-5916,IDBD-D101880,200217B02,Additional Pos.,Staphylococcus epidermidis
+IDbyDNA-5911A,IDBD-D101941,200221B02,Additional Pos.,Mycoplasma hominis
+IDbyDNA-5787,IDBD-D101643,200206B02,Additional Pos.,Corynebacterium urealyticum
+IDbyDNA-5884,IDBD-D101830,200214B02,Additional Pos.,Actinotignum schaalii (Actinobaculum schaalii)
+IDbyDNA-5891,IDBD-D101837,200214B02,Additional Pos.,Staphylococcus simulans
+IDbyDNA-5893,IDBD-D101839,200214B02,Additional Pos.,Enterococcus faecalis
+IDbyDNA-5899,IDBD-D101845,200214B02,Additional Pos.,Corynebacterium riegelii
+IDbyDNA-5906,IDBD-D101870,200217B02,Additional Pos.,Aerococcus urinae
+IDbyDNA-5916,IDBD-D101880,200217B02,Additional Pos.,Streptococcus constellatus
+IDbyDNA-5864,IDBD-D101790,200213B02,Additional Pos.,Aerococcus urinae
+IDbyDNA-5884,IDBD-D101830,200214B02,Additional Pos.,Aerococcus sanguinicola
+IDbyDNA-5893,IDBD-D101839,200214B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5899,IDBD-D101845,200214B02,Additional Pos.,Gardnerella vaginalis
+IDbyDNA-5906,IDBD-D101870,200217B02,Additional Pos.,Corynebacterium glucuronolyticum
+IDbyDNA-5899,IDBD-D101845,200214B02,Additional Pos.,Aerococcus urinae

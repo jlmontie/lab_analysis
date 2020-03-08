@@ -5,3 +5,4 @@ __pycache__
 *.dxsm.out.summary
 *.html
 *Coverage.csv
+20200303_uti_bacterial_cutoffs/data/*.csv

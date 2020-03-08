@@ -1,0 +1,5 @@
+/data/analysis_group2/results/synergy-uti-dev/200209_NB551543_0214_AH7FHKBGXF
+/data/analysis_group2/results/synergy-uti-dev/200214_NB551702_0118_AH7FC2BGXF
+/data/analysis_group2/results/synergy-uti-dev/200215_NB551543_0219_AH7CJ5BGXF
+/data/analysis_group2/results/synergy-uti-dev/200218_NB551543_0221_AH7FHJBGXF
+/data/analysis_group2/results/synergy-uti-dev/200222_NB551702_0122_AHCFTFBGXF
