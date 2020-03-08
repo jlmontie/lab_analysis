@@ -17,7 +17,7 @@ ipywidgets = ">=7.5"
 pandoc = "*"
 xlrd = "*"
 statsmodels = "*"
-idbd-bio-utils = {editable = true,path = "/home/jmontgomery/idbd-bio-utils"}
+idbd-bio-utils = {editable = true,path = "./../idbd-bio-utils"}
 
 [requires]
 python_version = "3.6"
