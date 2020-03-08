@@ -6,3 +6,6 @@ __pycache__
 *.html
 *overage*.csv
 20200303_uti_bacterial_cutoffs/data/*.csv
+*Coverage.csv
+Pipfile.lock
+.git.bfg-report/
