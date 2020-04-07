@@ -182,8 +182,7 @@ class DataExtractor(object):
             composition_parser = SampleCompParser(composition_path, self.ncbi,
                 taxids)
             norm_ctrl_read_cnt = np.sum([
-                (taxid, composition_parser.get_taxid_reads(taxid))
-                for taxid in taxids
+                composition_parser.get_taxid_reads(taxid) for taxid in taxids
             ])
             org_composition = composition_parser.get_org_comp_nr()
         return norm_ctrl_read_cnt, org_composition
