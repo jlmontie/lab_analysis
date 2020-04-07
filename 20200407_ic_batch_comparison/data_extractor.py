@@ -144,7 +144,7 @@ class DataExtractor(object):
             norm_ctrl_read_cnt_summary = self._get_ctrl_cnts(vir_paths,
                 ctrl_reporting_ids, total_reads)
             ### Composition data ###
-            composition_path_ls = glob.glob(os.path.join(rundir, 'tax',
+            composition_path_ls = glob.glob(os.path.join(run_dir, 'tax',
                 seq_sple + comp_partial))
             norm_ctrl_read_cnt_comp, org_composition = \
                 self._get_composition_data(composition_path_ls,
