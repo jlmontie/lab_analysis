@@ -18,6 +18,7 @@ pandoc = "*"
 xlrd = "*"
 statsmodels = "*"
 idbd-bio-utils = {editable = true,path = "./../idbd-bio-utils"}
+tqdm = "*"
 
 [requires]
 python_version = "3.6"
