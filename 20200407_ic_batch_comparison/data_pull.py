@@ -23,4 +23,4 @@ batch_old_dict = get_accession_dict(batch_old)
 extractor_old = DataExtractor(project_dir=project_dir,
     accession_dict=batch_old_dict, lib_type='rna')
 df_old = extractor_old.collect_data()
-print(df)
+print(df_old)
