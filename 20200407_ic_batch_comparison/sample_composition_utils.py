@@ -11,12 +11,18 @@ class SampleCompParser(object):
             self.ncbi_tax = ncbi_tax
         if isinstance(ctrl_taxa, list):
             if not all([isinstance(taxid, int) for taxid in ctrl_taxa]):
-                raise ValueError('ctrl_taxa must be int or list of ints.')
+                try:
+                    self.ctrl_taxa = [int(taxid) for taxid in ctrl_taxa]
+                except:
+                    print('ctrl_taxa must be int or list of ints.')
             self.ctrl_taxa = ctrl_taxa
         elif isinstance(ctrl_taxa, int):
             self.ctrl_taxa = list(ctrl_taxa)
         else:
-            raise ValueError('ctrl_taxa must be int or list of ints.')
+            try:
+                self.ctrl_taxa = int(ctrl_taxa)
+            except:
+                print('ctrl_taxa must be int or list of ints.')
         self.composition_dict = self._load_sample_composition(
             sample_composition_path)
         self.total_reads = np.sum(list(self.composition_dict.values()))
