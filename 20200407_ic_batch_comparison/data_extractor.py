@@ -149,7 +149,13 @@ class DataExtractor(object):
             norm_ctrl_read_cnt_comp, org_composition = \
                 self._get_composition_data(composition_path_ls,
                     ctrl_reporting_ids)
-            lib_dict_ls.append(self._build_lib_dict())
+            lib_dict_ls.append(
+                self._build_lib_dict(accession, seq_sple, batch_id, run_date,
+                    sample_name, lib_type, total_reads,
+                    norm_ctrl_read_cnt_summary, norm_ctrl_read_cnt_comp,
+                    org_composition
+                )
+            )
         return lib_dict_ls
 
     def _get_ctrl_cnts(self, vir_paths, ctrl_reporting_ids, total_reads):
