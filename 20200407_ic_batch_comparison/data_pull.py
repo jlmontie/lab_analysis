@@ -1,0 +1,19 @@
+from data_extractor import DataExtractor
+
+project_dir = '/srv/idbydna-group3/results/idbd_rnd_v2/'
+
+IDBD-D102393
+IDBD-D102394
+IDBD-D102395
+IDBD-D102397
+IDBD-D102398
+IDBD-D102399
+IDBD-D102400
+IDBD-D102401
+IDBD-D102402
+IDBD-D102403
+IDBD-D102404
+IDBD-D102406
+IDBD-D102409
+IDBD-D102412
+extractor = DataExtractor()

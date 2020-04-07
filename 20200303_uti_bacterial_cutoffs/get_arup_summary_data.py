@@ -20,6 +20,7 @@ for idx, row in tqdm(info.iterrows()):
             rna_data['taxid'].append(obj['taxid'])
             rna_data['organism'].append(obj['name'])
             rna_data['rna_coverage'].append(obj['coverage'])
+            rna_data['absolute_quant'].append(obj['absolute_quant'])
     dna_path = row['dna_bac_summary_path']
     with gzip.open(dna_path) as infile2:
         for line in infile2:

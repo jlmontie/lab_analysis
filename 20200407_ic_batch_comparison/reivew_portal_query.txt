@@ -1,0 +1,1 @@
+sudo NODE_ENV=production /opt/node-v10.13.0-linux-x64/bin/node /srv/idbydna-group2/www/html/explify-validation/server/utils/export-results.js --accessions IDBD-D102393,IDBD-D102394,IDBD-D102395,IDBD-D102397,IDBD-D102398,IDBD-D102399,IDBD-D102400,IDBD-D102401,IDBD-D102402,IDBD-D102403,IDBD-D102404,IDBD-D102406,IDBD-D102409,IDBD-D102412

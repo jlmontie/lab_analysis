@@ -1222,3 +1222,29 @@ source col_0
 649       NaN
 Name: dna_coverage, Length: 556, dtype: float64127.0.0.1 - - [07/Mar/2020 16:06:51] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
 127.0.0.1 - - [07/Mar/2020 16:06:53] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:13] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:13] "[37mGET /_dash-dependencies HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:13] "[37mGET /_dash-layout HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:13] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:13] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:13] "[37mGET /_dash-component-suites/dash_core_components/async-plotlyjs.v1_8_1m1582838719.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:14] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:15] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:25] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [07/Mar/2020 22:39:25] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_renderer/polyfill@7.v1_2_2m1581727810.7.0.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_renderer/react-dom@16.v1_2_2m1581727810.8.6.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_core_components/dash_core_components.v1_8_1m1583261092.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_renderer/dash_renderer.v1_2_2m1581727810.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v0_8_3m1583334775.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-dependencies HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-layout HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_favicon.ico?v=1.9.1 HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_core_components/async-dropdown.v1_8_1m1582838719.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_table/async-table.v4_6_1m1582839172.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:44] "[37mGET /_dash-component-suites/dash_core_components/async-plotlyjs.v1_8_1m1582838719.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:45] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -
+127.0.0.1 - - [12/Mar/2020 16:30:46] "[37mPOST /_dash-update-component HTTP/1.0[0m" 200 -

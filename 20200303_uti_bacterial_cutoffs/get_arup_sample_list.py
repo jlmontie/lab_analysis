@@ -19,6 +19,10 @@ spletype_ls = []
 bac_dna_summary_path_ls = []
 bac_rna_summary_path_ls = []
 bac_amr_summary_path_ls = []
+fungpar_rna_summary_path_ls = []
+vir_rna_summary_path_ls = []
+vir_dna_summary_path_ls = []
+dna_sample_comp_path_ls = []
 run_date_ls = []
 for run_path in run_paths:
     batch_dir = os.path.join(run_path, 'batch')
@@ -51,6 +55,26 @@ for run_path in run_paths:
                 bac_amr_summary_path_ls.extend(bac_amr)
             else:
                 bac_amr_summary_path_ls.append(None)
+            fungpar_rna = [os.path.join(run_path, item) for item in lib['rnaDiagnosticOutput'] if 'rna.fungal_parasite.dxsm' in item]
+            if fungpar_rna:
+                fungpar_rna_summary_path_ls.extend(fungpar_rna)
+            else:
+                fungpar_rna_summary_path_ls.append(None)
+            vir_rna = [os.path.join(run_path, item) for item in lib['rnaDiagnosticOutput'] if 'rna.viral.dxsm' in item]
+            if vir_rna:
+                vir_rna_summary_path_ls.extend(vir_rna)
+            else:
+                vir_rna_summary_path_ls.append(None)
+            vir_dna = [os.path.join(run_path, item) for item in lib['dnaDiagnosticOutput'] if 'dna.viral.dxsm' in item]
+            if vir_dna:
+                vir_dna_summary_path_ls.extend(vir_dna)
+            else:
+                vir_dna_summary_path_ls.append(None)
+            sample_comp = glob.glob(os.path.join(os.path.dirname(os.path.join(run_path, lib['dnaDiagnosticOutput'][0])), lib['seqSple'] + '*' + 'dna.sample_composition.out'))
+            if sample_comp:
+                dna_sample_comp_path_ls.extend(sample_comp)
+            else:
+                dna_sample_comp_path_ls.append(None)
             run_date_ls.append(batch['analysis']['timeCompleted'][:10])
 
 assert all((len(run_path_ls) == len(run_id_ls), len(run_path_ls) == len(accession_ls), len(run_path_ls) == len(seq_sple_ls),
@@ -69,6 +93,10 @@ df = pd.DataFrame({
     'rna_bac_summary_path': bac_rna_summary_path_ls,
     'dna_bac_summary_path': bac_dna_summary_path_ls,
     'dna_amr_summary_path': bac_amr_summary_path_ls,
+    'rna_fungpar_summary_path': fungpar_rna_summary_path_ls,
+    'rna_vir_summary_path': vir_rna_summary_path_ls,
+    'dna_vir_summary_path': vir_dna_summary_path_ls,
+    'dna_sample_comp_path': dna_sample_comp_path_ls,
     'run_date': run_date_ls
 })
 df = df.sort_values('run_date')
