@@ -113,7 +113,7 @@ class DataExtractor(object):
             # skip samples not in accession_dict if it exists
             if self.accession_dict is not None:
                 if batch_id.lower() in [batch.lower() for batch in
-                                        accession_dict.keys()]:
+                                        self.accession_dict.keys()]:
                     if accession.lower() not in self.accessions:
                         continue
             lib_type = lib['libType']
