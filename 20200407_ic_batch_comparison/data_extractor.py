@@ -91,7 +91,7 @@ class DataExtractor(object):
             batch_dict_ls = self._iterate_batches(matching_batches)
             rundir_dict_ls.extend(batch_dict_ls)
         self.df = self._create_dataframe(rundir_dict_ls)
-        self._print_unprocessed_batches()
+        self._get_unprocessed_batches()
         return self.df
 
     def save_data(self, outpath):
