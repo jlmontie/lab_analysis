@@ -223,6 +223,6 @@ class DataExtractor(object):
         return df
 
     def _print_unprocessed_batches(self):
-        batch_set = self.batch_list
+        batch_set = set(self.batch_list)
         batches_not_found = batch_set.difference(self.batches_found)
         print(f"Batches not found: {list(batches_not_found)}")
