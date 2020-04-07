@@ -92,6 +92,7 @@ class DataExtractor(object):
             rundir_dict_ls.extend(batch_dict_ls)
         self.df = self._create_dataframe(rundir_dict_ls)
         self._print_unprocessed_batches()
+        return self.df
 
     def save_data(self, outpath):
         self.df.to_csv(outpath, index=False)
@@ -225,4 +226,5 @@ class DataExtractor(object):
     def _print_unprocessed_batches(self):
         batch_set = set(self.batch_list)
         batches_not_found = batch_set.difference(self.batches_found)
-        print(f"Batches not found: {list(batches_not_found)}")
+        print(f"Batches found:\n{list(self.batches_found)}\n")
+        print(f"Batches not found:\n{list(batches_not_found)}")
