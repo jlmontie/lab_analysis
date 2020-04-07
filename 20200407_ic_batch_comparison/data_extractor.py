@@ -223,8 +223,7 @@ class DataExtractor(object):
         df = pd.DataFrame(rundir_dict_ls)
         return df
 
-    def _print_unprocessed_batches(self):
+    def _get_unprocessed_batches(self):
         batch_set = set(self.batch_list)
-        batches_not_found = batch_set.difference(self.batches_found)
-        print(f"Batches found:\n{list(self.batches_found)}\n")
-        print(f"Batches not found:\n{list(batches_not_found)}")
+        self.batches_not_found = batch_set.difference(self.batches_found)
+
