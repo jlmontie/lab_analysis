@@ -132,7 +132,7 @@ class DataExtractor(object):
             sample_name = lib['spleName']
             total_reads = lib['qualityFilterInfo']['readsOut']
             tax_paths = lib['diagnosticOutput']
-            run_dir = Path(batch_path).parent
+            run_dir = Path(batch_path).parent.parent
             ### Control data ###
             vir_paths = [os.path.join(run_dir, path) for path in tax_paths if
                 vir_partial in path]
