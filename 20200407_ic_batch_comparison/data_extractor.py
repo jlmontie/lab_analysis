@@ -141,6 +141,7 @@ class DataExtractor(object):
             else:
                 ctrl_reporting_ids = [item['reportingId'] for item in
                                       lib['internalControls']['organisms']]
+            print(f"ctrl_reporting_ids: {ctrl_reporting_ids}")
             norm_ctrl_read_cnt_summary = self._get_ctrl_cnts(vir_paths,
                 ctrl_reporting_ids, total_reads)
             ### Composition data ###
@@ -166,6 +167,7 @@ class DataExtractor(object):
 
     def _get_composition_data(self, composition_path_ls, ctrl_reporting_ids):
         taxids = [item.split('_')[1] for item in ctrl_reporting_ids]
+        print(f"taxids: {taxids}")
         if not composition_path_ls:
             norm_ctrl_read_cnt = 0
             org_composition = {
