@@ -41,10 +41,8 @@ class DataExtractor(object):
             controls. This overrides the control reporting_id in the
             batch file.
         """
-        assert all((project_dir is not None, lib_type is not None,
-            ctrl_reporting_ids is not None)), \
-                (f"project_dir, lib_type, and ctrl_reporting_ids "
-                    f"must be supplied")
+        assert all((project_dir is not None, lib_type is not None)), \
+                (f"project_dir and lib_type must be supplied")
         assert any((batch_list is not None, accession_dict is not None)), \
             (f"either batch_list or accession_dict must be supplied")
         self.project_dir = project_dir
@@ -55,9 +53,10 @@ class DataExtractor(object):
                 list(accession_dict.keys())]
         if accession_dict is not None:
             accessions = []
-            for item in accession_dict.items():
+            for item in accession_dict.values():
                 accessions.extend(item)
-            self.accessions = [accession.lower() for accession in accessions]
+            self.accessions = list(set([accession.lower() for accession in
+                accessions]))
         else:
             self.accessions = []
         self.accession_dict = accession_dict
