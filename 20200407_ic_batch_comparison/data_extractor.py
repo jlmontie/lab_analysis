@@ -5,6 +5,7 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
 from idbd_bio_utils import NcbiTaxonomy
 
@@ -74,7 +75,7 @@ class DataExtractor(object):
         returns: pandas DataFrame with data for all batches
         """
         rundir_dict_ls = []
-        for rundir in self.rundirs:
+        for rundir in tqdm(self.rundirs):
             batch_files = glob.glob(os.path.join(rundir, 'batch', '*'))
             if not batch_files:
                 continue
