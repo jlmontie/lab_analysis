@@ -24,7 +24,10 @@ def get_data(project_dirs, batch_dict):
         batches_found.extend(list(extractor.batches_found))
         batches_not_found.extend(list(extractor.batches_not_found))
     df = pd.concat(df_ls)
-    return df, batches_found, batches_not_found
+    # batches not found in one project directory may be found in another
+    batches_not_found_all = list(
+        set(batches_not_found).difference(batches_found))
+    return df, batches_found, batches_not_found_all
 
 project_dir_1 = '/srv/idbydna-group3/results/idbd_rnd_v2/'
 project_dir_2 = '/srv/idbydna-group2/results/arup-resp-prod/'
